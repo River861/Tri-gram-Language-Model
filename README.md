@@ -31,7 +31,7 @@
 
 * 输出结果形式：
 
-  ![](.\Report\1.PNG)
+  ![](./Report/1.PNG)
 
   即通过两个`W1 W2` 来预测的 `P(W3|W1 W2)` 的概率（这里的数值经过了Smoothing，因此比较小）。
 
@@ -41,7 +41,7 @@
 
 * 后端
 
-  * 进入``WordPredict/backend`目录
+  * 进入`WordPredict/backend`目录
 
   * 将训练完成的语言模型放在`./output` 中
 
@@ -59,7 +59,7 @@
 
 * 预测效果
 
-  ![](.\Report\2.PNG)
+  ![](./Report/2.PNG)
 
 
 
@@ -139,7 +139,7 @@
 
 ##### 1. Trigram Language Model 训练程序
 
-![](.\Report\3.png)
+![](./Report/3.png)
 
 * **map模块**实现方法
 
@@ -175,7 +175,7 @@
 
 ##### 2. 汉字输入预测程序
 
-![](.\Report\4.png)
+![](./Report/4.png)
 
 * 前端界面实现方法
 
